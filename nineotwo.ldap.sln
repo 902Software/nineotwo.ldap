@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2008
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nineotwo.ldap", "nineotwo.ldap\nineotwo.ldap.csproj", "{EDA76E9A-0CAD-418F-853C-6C08576CC26E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nineotwo.ldap.core", "nineotwo.ldap.core\nineotwo.ldap.core.csproj", "{65C933F9-A4A9-4765-989E-DA9CA66B80EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{EDA76E9A-0CAD-418F-853C-6C08576CC26E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDA76E9A-0CAD-418F-853C-6C08576CC26E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDA76E9A-0CAD-418F-853C-6C08576CC26E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65C933F9-A4A9-4765-989E-DA9CA66B80EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65C933F9-A4A9-4765-989E-DA9CA66B80EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65C933F9-A4A9-4765-989E-DA9CA66B80EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65C933F9-A4A9-4765-989E-DA9CA66B80EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
